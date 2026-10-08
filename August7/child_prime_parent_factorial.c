@@ -1,5 +1,4 @@
 // Write a program to check whether a number is prime or not in the child process and the process calculate factorial of a number in the parent process.
-// This program demonstrates the use of fork() to create a child process that checks if a number is prime, while the parent process calculates the factorial of the same number.
 
 
 #include <stdio.h>
