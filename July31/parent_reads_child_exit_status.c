@@ -1,5 +1,4 @@
 //Child exits with status 10 and parent reads it using wait()
-// This program demonstrates how a child process can exit with a specific status code, and how the parent process can retrieve that status using the wait() system call.
     
 #include <stdio.h>
 #include <unistd.h>
