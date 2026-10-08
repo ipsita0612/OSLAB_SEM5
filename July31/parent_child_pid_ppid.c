@@ -1,5 +1,4 @@
 // Demonstrate Parent and Child Process IDs
-// This program demonstrates how to create a child process using fork() and displays the process IDs (PID) and parent process IDs (PPID) for both the parent and child processes.
 
 #include <stdio.h>
 #include <sys/types.h>
