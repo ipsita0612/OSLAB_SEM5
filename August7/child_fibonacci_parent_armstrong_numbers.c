@@ -1,4 +1,4 @@
-// This program demonstrates the use of fork() to create a child process that calculates the Fibonacci series up to a given number n, while the parent process calculates Armstrong numbers up to the same number n.
+//Write a C program that calculates the Fibonacci series up to a given number n, while the parent process calculates Armstrong numbers up to the same number n.
 
 #include <stdio.h>
 #include <stdlib.h>
