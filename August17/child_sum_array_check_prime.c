@@ -1,5 +1,4 @@
 // Permutation of an array using fork()
-// This program takes an array of integers as input, calculates the sum of the elements in a child process, and checks if the sum is a prime number. The parent process waits for the child process to complete before exiting.
 
 #include <stdio.h>
 #include <stdlib.h>
