@@ -66,6 +66,3 @@ This repository contains C exercises for Operating Systems lab practicals.
 - `05_Page_Replacement/01_fifo.c`
 - `05_Page_Replacement/02_lru.c`
 
-## Author
-
-Ipsita Sharma ([GitHub profile](https://github.com/ipsita0612))
